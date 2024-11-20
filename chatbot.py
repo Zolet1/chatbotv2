@@ -13,6 +13,7 @@ import sys
 
 # Certifique-se de ter baixado os pacotes necessários
 nltk.download('punkt')
+nltk.download('punkt_tab')
 
 # Função para instalar as dependências
 def install_requirements():
